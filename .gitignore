@@ -1,0 +1,11 @@
+# Ignore environment secrets
+.env
+
+# Ignore dependency folders
+node_modules/
+bin/
+
+# Ignore all log files
+*.log
+*.fits
+*.Appimage
